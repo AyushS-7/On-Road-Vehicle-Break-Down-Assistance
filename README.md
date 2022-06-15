@@ -9,9 +9,7 @@ licensed mechanics can get listed here while the search. And there are available
 who can come and repair the mechanical issues in the users vehicle.
 
 It includes the following features
-
 1. Registration : every one can register without any limitation
-
 2. Login:
 • The system should allow customers to login to the system using their username and 
 password.
